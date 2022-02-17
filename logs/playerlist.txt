@@ -1,0 +1,471 @@
+2022-02-16 21:14:31.5866352022-02-16 21:15:16.527139
+Phillip Helm Panthers
+Joe Smith Bandits
+Jill Tanner Warriors
+Herschel Krustofski Panthers
+Suzane Greenberg Bandits
+Les Clay Warriors
+Bill Bon Panthers
+Karl Saygan Bandits
+Diego Soto Warriors
+Matt Gill Panthers
+Joe Kavalier Bandits
+Eva Gordon Warriors
+Sal Dali Panthers
+Kimmy Stein Bandits
+Arnold Willis Warriors
+Ben Finkelstein Panthers
+Chloe Alaska Bandits
+Sammy Adams Warriors2022-02-16 21:16:22.393078
+Diego Soto - Panthers
+Joe Smith - Bandits
+Karl Saygan - Warriors
+Phillip Helm - Panthers
+Bill Bon - Bandits
+Herschel Krustofski - Warriors
+Suzane Greenberg - Panthers
+Jill Tanner - Bandits
+Les Clay - Warriors
+Arnold Willis - Panthers
+Sal Dali - Bandits
+Sammy Adams - Warriors
+Ben Finkelstein - Panthers
+Joe Kavalier - Bandits
+Chloe Alaska - Warriors
+Kimmy Stein - Panthers
+Matt Gill - Bandits
+Eva Gordon - Warriors
+2022-02-16 21:18:41.165119
+Joe Smith - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Herschel Krustofski - Warriors
+Phillip Helm - Panthers
+Diego Soto - Bandits
+Les Clay - Warriors
+Joe Kavalier - Panthers
+Chloe Alaska - Bandits
+Sal Dali - Warriors
+Eva Gordon - Panthers
+Kimmy Stein - Bandits
+Arnold Willis - Warriors
+Ben Finkelstein - Panthers
+Sammy Adams - Bandits
+Matt Gill - Warriors
+2022-02-16 21:56:24.286432
+
+2022-02-16 22:00:10.393708
+Karl Saygan - Panthers
+Matt Gill - Bandits
+Sammy Adams - Warriors
+Chloe Alaska - Panthers
+Bill Bon - Bandits
+Joe Kavalier - Warriors
+Phillip Helm - Panthers
+Les Clay - Bandits
+Sal Dali - Warriors
+Suzane Greenberg - Panthers
+Jill Tanner - Bandits
+Arnold Willis - Warriors
+Herschel Krustofski - Panthers
+Eva Gordon - Bandits
+Ben Finkelstein - Warriors
+Joe Smith - Panthers
+Diego Soto - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 22:00:53.265884
+Karl Saygan - Panthers
+Matt Gill - Bandits
+Sammy Adams - Warriors
+Chloe Alaska - Panthers
+Bill Bon - Bandits
+Joe Kavalier - Warriors
+Phillip Helm - Panthers
+Les Clay - Bandits
+Sal Dali - Warriors
+Suzane Greenberg - Panthers
+Jill Tanner - Bandits
+Arnold Willis - Warriors
+Herschel Krustofski - Panthers
+Eva Gordon - Bandits
+Ben Finkelstein - Warriors
+Joe Smith - Panthers
+Diego Soto - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 22:03:21.758358
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 22:03:21.759352
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 22:03:58.673455
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 22:03:58.673455
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 22:28:39.836073
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 22:28:39.836073
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:10:51.955075
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:10:51.955075
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:11:36.245372
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:11:36.245372
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:12:54.874934
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:12:54.874934
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:14:35.738132
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:14:35.738132
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:15:36.003918
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:15:36.004914
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:29:15.354994
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:29:15.354994
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:29:45.273101
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:29:45.273101
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:30:18.557980
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:30:18.557980
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:33:28.108180
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:33:28.108180
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:37:47.023404
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:37:47.023404
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:39:44.718419
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:39:44.718419
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:42:50.162883
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:42:50.162883
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:45:12.437645
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:45:12.438642
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
+
+2022-02-16 23:45:55.409355
+Karl Saygan - Panthers
+Bill Bon - Bandits
+Phillip Helm - Warriors
+Les Clay - Panthers
+Suzane Greenberg - Bandits
+Jill Tanner - Warriors
+Herschel Krustofski - Panthers
+Joe Smith - Bandits
+Diego Soto - Warriors
+
+2022-02-16 23:45:55.410352
+Matt Gill - Panthers
+Sammy Adams - Bandits
+Chloe Alaska - Warriors
+Joe Kavalier - Panthers
+Sal Dali - Bandits
+Arnold Willis - Warriors
+Eva Gordon - Panthers
+Ben Finkelstein - Bandits
+Kimmy Stein - Warriors
