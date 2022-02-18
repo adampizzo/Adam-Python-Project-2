@@ -1,8 +1,0 @@
-Team: Panthers Stats
--------------------------
-Total players: 6
-Total experienced: 3
-Total inexperienced: 3
-The average height of the players on the Panthers is: 42 inches.
-Players on the Panthers: Joe Smith, Suzane Greenberg, Jill Tanner, Kimmy Stein, Chloe Alaska, Sammy Adams
-Guardians of Players on the Panthers: Jim Smith, Jan Smith, Henrietta Dumas, Mark Tanner, Bill Stein, Hillary Stein, David Alaska, Jamie Alaska, Jeff Adams, Gary Adams

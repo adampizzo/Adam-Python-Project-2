@@ -1,8 +1,0 @@
-Team: Warriors Stats
--------------------------
-Total players: 6
-Total experienced: 3
-Total inexperienced: 3
-The average height of the players on the Warriors is: 44 inches.
-Players on the Warriors: Les Clay, Karl Saygan, Suzane Greenberg, Chloe Alaska, Eva Gordon, Ben Finkelstein
-Guardians of Players on the Warriors: Wynonna Brown, Heather Bledsoe, Henrietta Dumas, David Alaska, Jamie Alaska, Wendy Martin, Mike Gordon, Aaron Lanning, Jill Finkelstein
