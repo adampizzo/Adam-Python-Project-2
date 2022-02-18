@@ -384,7 +384,8 @@ def start_program():
         except ValueError as err:
             sleep()
             print(err)
-            sleep()                
+            sleep()
+            clear()             
         
 if __name__ == '__main__': #Dunder main
     initiate_data()
