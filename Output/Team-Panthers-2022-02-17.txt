@@ -1,0 +1,8 @@
+Team: Panthers Stats
+-------------------------
+Total players: 6
+Total experienced: 3
+Total inexperienced: 3
+The average height of the players on the Panthers is: 41 inches.
+Players on the Panthers: Jill Tanner, Phillip Helm, Diego Soto, Arnold Willis, Sal Dali, Joe Kavalier
+Guardians of Players on the Panthers: Mark Tanner, Thomas Helm, Eva Jones, Robin Soto, Sarika Soto, Claire Willis, Gala Dali, Sam Kavalier, Elaine Kavalier

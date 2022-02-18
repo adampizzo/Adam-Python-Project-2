@@ -1,0 +1,8 @@
+Team: Panthers Stats
+-------------------------
+Total players: 6
+Total experienced: 3
+Total inexperienced: 3
+The average height of the players on the Panthers is: 42 inches.
+Players on the Panthers: Herschel Krustofski, Jill Tanner, Suzane Greenberg, Kimmy Stein, Matt Gill, Chloe Alaska
+Guardians of Players on the Panthers: Hyman Krustofski, Rachel Krustofski, Mark Tanner, Henrietta Dumas, Bill Stein, Hillary Stein, Charles Gill, Sylvia Gill, David Alaska, Jamie Alaska

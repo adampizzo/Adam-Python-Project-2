@@ -45,7 +45,6 @@ def clear():
 
 
 #Data Utility Functions    
-
 def clean_data(players_list):
     '''The purpose of the clean_data function is to clean up the provided players list
     
@@ -167,7 +166,6 @@ def get_num_players_by_experience(team_name, players_list):
     return(len(total_experienced_players), len(total_non_experienced_players))
 
 
-
 def add_players_to_team(teams_list, players_list):
     ''' The purpose of the add_players_to_team function is to add players to a team by cycling through all of the available teams and
         adding a player to the team with the index of the current team list and incrementing the counter. When the counter reaches the
@@ -188,7 +186,11 @@ def add_players_to_team(teams_list, players_list):
 
 
 #Team Utility Functions
-def get_num_players_on_a_team(team, players_list):            
+def get_num_players_on_a_team(team, players_list):
+    ''' The purpose of the get_num_players_on_a_team function is to take the team and player list, and count how many players there
+        are that are on that team. They are counted by append each player that is on that team into a list and then returning len()
+        on the list.
+    '''            
     num_players_on_team = []
     for player in players_list:
         if player['team'] == team:
@@ -197,6 +199,9 @@ def get_num_players_on_a_team(team, players_list):
 
 
 def average_team_height(team, players_list):
+    ''' The purpose of the average_team_height function is to take the team and player list, and then add up all players height on the
+        team. Then we divide that by the number of players on the team. We return the rounded height.
+    '''
     players_on_team = get_num_players_on_a_team(team, players_list)
     combined_height = 0
     for player in players_list:
@@ -206,22 +211,28 @@ def average_team_height(team, players_list):
     return round(combined_height / players_on_team)
 
 
-def print_players_guardians_on_team(team, players_list):
+def get_players_guardians_on_team(team, players_list):
+    ''' The purpose of the get_players_guardians_on_team function is to take the team and player list, and then print out all guardians
+        for players whose team matches the entered team.
+    '''
     guardians_list = []
 
     for player in players_list:
         if player['team'] == team:            
             guardians_list += player['guardians']    
-    print(", ".join(guardians_list) + "\n")
+    return ", ".join(guardians_list) + "\n"
 
 
-def print_player_names_on_team(team, players_list):    
+def get_player_names_on_team(team, players_list):
+    ''' The purpose of the get_player_names_on_team is to take the team and player list, and then print out all of the player names of 
+        the players on the team whose team matches the entered team.
+    '''    
     players = []   
 
     for player in players_list:
         if player['team'] == team:            
             players.append(player['name'])
-    print(", ".join(players) + "\n")
+    return ", ".join(players)
 
 
 def get_team_index(team_selection, teams_list):
@@ -237,7 +248,6 @@ def display_team_stats(team_selection, teams_list, players_list):
         the players on the team.
     '''
     team = get_team_index(team_selection, teams_list)
-
     print(f"Team: {team} Stats")
     print("-"*25)
     sleep()
@@ -254,17 +264,16 @@ def display_team_stats(team_selection, teams_list, players_list):
     print(f"The average height of the players on the {team} is: {average_team_height(team, players_list)} inches.")
     sleep()
     #Players on team
-    print(f"Players on the {team}:")
-    print_player_names_on_team(team, players_list)
+    print(f"Players on the {team}: ")
+    print(get_player_names_on_team(team, players_list))
     sleep()
-
-    
     #Guardians of players on team.
-    print(f"Guardians of Players on the {team}")
-    print_players_guardians_on_team(team, players_list)
+    print(f"Guardians of Players on the {team}: ")
+    print(get_players_guardians_on_team(team, players_list))
     print()
-    sleep()
-    
+    sleep()    
+    checkers.write_team_stats(team, players_list)
+
 
 def initiate_data():
     ''' The purpose of initiate_data is set the initial variables as well as determine how the users want to balance their teams.
@@ -279,35 +288,46 @@ def initiate_data():
     print("Intializing Data Cleaning" + "."*10 + "\n")
     config.players = clean_data(config.players)
 
-    if config.ask_balanced_randomized == True:
+    if config.ask_balanced_randomized == True: 
+        #Only run this code if the variable in config is True. 
+        #Otherwise, it will run the basic balanced but not randomized code (Or whatever we've set those variables to in config.)
         add_dots()
         print("Preparing to Balance Teams" + "."*10 + "\n")
         sleep()
-
-        print("When balancing the teams, would you like to balance them by experience?")
-        print("1) Yes")
-        print("2) No")
-        balance_teams_input = int(input("\n Enter an option:  "))
-
-        if balance_teams_input == 1:
-            balance_teams_by_experience = True
-        else:
-            balance_teams_by_experience = False        
-        sleep()
-        print("\n\n")
-
-        print("When balancing the teams, would you like to randomize the order of players?")
-        print("1) Yes")
-        print("2) No")
-        randomize_teams_input = int(input("\n Enter an option:  "))
-
-        if randomize_teams_input == 1:
-            randomize_teams = True
-        else:
-            randomize_teams = False
-        sleep()
-        print("\n\n")
-        
+        while True: 
+            try:
+                print("When balancing the teams, would you like to balance them by experience?")
+                print("1) Yes")
+                print("2) No")
+                balance_teams_input = input("\n Enter an option:  ")
+                balance_teams_input = int(balance_teams_input)
+            except ValueError:
+                print(f"\n{balance_teams_input} is not a valid selection. Please try again\n")
+            else:
+                if balance_teams_input == 1:
+                    balance_teams_by_experience = True
+                else:
+                    balance_teams_by_experience = False        
+                sleep()
+                break       
+        print("\n")
+        while True:
+            try:
+                print("When balancing the teams, would you like to randomize the order of players?")
+                print("1) Yes")
+                print("2) No")
+                randomize_teams_input = input("\n Enter an option:  ")
+                randomize_teams_input = int(randomize_teams_input)
+            except ValueError:
+                print(f"\n{randomize_teams_input} is not a valid selection. Please try again\n")
+            else:
+                if randomize_teams_input == 1:
+                    randomize_teams = True
+                else:
+                    randomize_teams = False
+                sleep()
+                break
+        print("\n")        
         add_dots()
         print("Balancing Teams", end="")
         add_dots()
@@ -320,7 +340,6 @@ def initiate_data():
     else:
         config.players = balance_teams(config.teams, config.players, config.balanced, config.randomized)
     clear()
-
     
 
 def start_program():            
@@ -367,16 +386,6 @@ def start_program():
             print(err)
             sleep()                
         
-
-
-
-
-    
-
-
-
-
-
 if __name__ == '__main__': #Dunder main
     initiate_data()
     start_program()

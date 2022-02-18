@@ -1,0 +1,8 @@
+Team: Bandits Stats
+-------------------------
+Total players: 6
+Total experienced: 3
+Total inexperienced: 3
+The average height of the players on the Bandits is: 43 inches.
+Players on the Bandits: Joe Smith, Herschel Krustofski, Bill Bon, Sammy Adams, Matt Gill, Kimmy Stein
+Guardians of Players on the Bandits: Jim Smith, Jan Smith, Hyman Krustofski, Rachel Krustofski, Sara Bon, Jenny Bon, Jeff Adams, Gary Adams, Charles Gill, Sylvia Gill, Bill Stein, Hillary Stein

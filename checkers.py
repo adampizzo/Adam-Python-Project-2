@@ -1,5 +1,6 @@
 import logging
 import datetime
+import app
 
 #Exception Classes
 class TeamNameNotInTeamsList(Exception):
@@ -119,4 +120,37 @@ def print_team_list(teams_list):
     print(teams_format.format("Active Teams"))
     print("-"*25)
     for team in teams_list:
-        print(teams_format.format(team))        
+        print(teams_format.format(team))
+
+
+def write_team_stats(team, players_list):
+    
+    while True:        
+        print("Do you want to save this data for use later?")
+        print("1) Yes")
+        print("2) No")
+        try:
+            
+            write_team = input("\n Enter an option:  ")
+            write_team = int(write_team)
+            if write_team != 1 and write_team != 2:
+                raise ValueError(f"{write_team} is not a valid selection.")
+        except ValueError as err:
+            print(err)
+        else:
+            if write_team == 1:
+                team_file = open("Output\\Team-{}-{}.txt".format(team, datetime.datetime.now().strftime('%Y%m%d%H%M%S')), "w")
+                team_file.write(f"Team: {team} Stats\n")
+                team_file.write("-"*25 + "\n")
+                team_file.write(f"Total players: {app.get_num_players_on_a_team(team, players_list)}\n")
+                num_exp_player, num_non_exp_player = app.get_num_players_by_experience(team, players_list)
+                team_file.write(f"Total experienced: {num_exp_player}\n")
+                team_file.write(f"Total inexperienced: {num_non_exp_player}\n")
+                team_file.write(f"The average height of the players on the {team} is: {app.average_team_height(team, players_list)} inches.\n")
+                team_file.write(f"Players on the {team}: ")
+                team_file.write(app.get_player_names_on_team(team, players_list))
+                team_file.write(f"Guardians of Players on the {team}: ")
+                team_file.write(app.get_players_guardians_on_team(team, players_list))
+                break
+            else:
+                break

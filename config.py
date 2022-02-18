@@ -11,7 +11,7 @@ teams = []
 players = []
 
 #Variable to determine whether or not players are asked if they want to balance and randomize the teams
-ask_balanced_randomized = False
+ask_balanced_randomized = True
 
 #Variables to determine if the player list should be balanced and/or randomized
 balanced = True
